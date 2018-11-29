@@ -1,8 +1,8 @@
-# MongoDB & Apache Kafka Connect Demo Environment
+# MongoDB Cluster & Apache Kafka Connect Demo Environment
 
 This repository contains a ready-made _docker-compose_ file including all the necessary setup scripts to bootstrap the complete environment used in the following blog post:
 
-
+https://medium.com/@hpgrahsl/optimizing-read-access-to-sharded-mongodb-collections-utilizing-apache-kafka-connect-cdcd8ec6228
 
 **NOTE: This is by no means a production-ready configuration, yet suffices just fine for local development purposes.**
 
